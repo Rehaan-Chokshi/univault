@@ -1,0 +1,8 @@
+{
+  "name": "UniVault — University Repository Management System",
+  "description": "Centralized, secure repository for storing and managing university documents based on organizational hierarchy, multi-role access control, and owner-only deletion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
